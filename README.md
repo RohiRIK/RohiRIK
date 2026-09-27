@@ -10,7 +10,7 @@ I build tools for AI coding agents and ship them across many agent hosts at once
 
 **[OpenLtm](https://github.com/RohiRIK/OpenLtm)** — long-term memory for Claude Code. Semantic search over what I've already worked out, context injected back into the session, learning so the next session starts further along. The only repo I work on daily. TypeScript, MIT.
 
-**microsoft-graph-security** *(private)* — M365 security investigation skills, packaged once for many agents, with 47 documented hosts. Read-only by default; writes need explicit opt-in.
+**[microsoft-graph-security](https://github.com/RohiRIK/microsoft-graph-security)** — M365 security investigation skills, packaged once for many agents, with 47 documented hosts. Read-only by default; writes need explicit opt-in.
 
 **Omarchy bar widgets** — a QML desktop stack for observing what agents actually do:
 [agent-monitor](https://github.com/RohiRIK/omarchy-agent-monitor) ·
