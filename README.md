@@ -1,3 +1,5 @@
+<img src="./assets/avatar.jpg" width="140" alt="Rohi Rikman" align="right" />
+
 # Rohi Rikman
 
 I build security and infrastructure tooling for Microsoft 365 and cloud tenants, and I publish what broke while building it.
