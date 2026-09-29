@@ -4,7 +4,7 @@
 
 I build tools for AI coding agents and ship them across many agent hosts at once. The M365 security work is the domain I apply inside that frame.
 
-→ [CloudJourneyBlog](https://CloudJourneyBlog.rohi-lab.org) · [LinkedIn](https://www.linkedin.com/in/rohi-rikman-48831b239)
+→ [CloudJourneyBlog](https://CloudJourneyBlog.rohi-lab.org) · [LinkedIn](https://www.linkedin.com/in/rohi-rikman-48831b239) · [X](https://x.com/RRyqmn)
 
 ## Agent tooling
 
